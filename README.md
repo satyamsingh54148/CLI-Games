@@ -1,5 +1,12 @@
 # Games
 Basic Games 
-I have created a simple word-guessing game inspired by Hangman.
-The game has been developed in python using PyCharm.
-I have used the concepts of Data Structure( i.e. - List and Dictionary), upper() method and randint() method.
+
+Game 1 : Hangman :
+    I have created a simple single player word-guessing game inspired by Hangman.
+    The game has been developed in python using PyCharm.
+    I have used the concepts of Data Structure ( i.e. - List and Dictionary), upper() method and randint() method.
+    
+Game 2 : Tic - Tac - Toe :
+    This is a basic implementation of the famous 2-player game 'Tic - Tac - Toe'.
+    The game has been developed in python using PyCharm.
+    I have used the concepts of Data Structure ( i.e. - List) and global variables.
